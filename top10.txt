@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Топ-10 найкрасивіших котів</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Топ-10 найкрасивіших котів</h1>
+    </header>
+    <main>
+        <section>
+            <ol class="top-list">
+                <li><strong>Персидська кішка</strong> — розкішна довга шерсть.</li>
+                <li><strong>Бенгальська кішка</strong> — яскраве забарвлення під леопарда.</li>
+                <li><strong>Шотландська висловуха</strong> — виразні очі та особлива форма вушок.</li>
+                <li><strong>Російська блакитна</strong> — елегантна сріблясто-блакитна шерсть.</li>
+                <li><strong>Бірманська кішка</strong> — пухнаста красуня з темними лапками.</li>
+                <li><strong>Абіссинська кішка</strong> — граціозний дикий вигляд.</li>
+                <li><strong>Норвезька лісова</strong> — пухнаста кішка з північних лісів.</li>
+                <li><strong>Регдолл</strong> — дуже м'які та спокійні коти.</li>
+                <li><strong>Турецька ангора</strong> — білосніжна красуня.</li>
+                <li><strong>Мейн-кун</strong> — величний та гармонійний гігант.</li>
+            </ol>
+        </section>
+        <div class="navigation">
+            <a href="index.html" class="btn">Повернутися до всіх видів</a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Сайт про котів. Усі права захищено.</p>
+    </footer>
+</body>
+</html>

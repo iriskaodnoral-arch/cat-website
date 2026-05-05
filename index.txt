@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Види котів</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Всі види котів</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Популярні породи котів</h2>
+            <ul class="cat-list">
+                <li><strong>Британська короткошерста</strong> — спокійні та плюшеві коти з круглими мордочками.</li>
+                <li><strong>Мейн-кун</strong> — найбільші домашні коти з пухнастими хвостами та китицями на вухах.</li>
+                <li><strong>Сіамська кішка</strong> — граційні, дуже активні та балакучі кішки з яскравими блакитними очима.</li>
+                <li><strong>Сфінкс</strong> — безшерсті, теплі та надзвичайно ласкаві та віддані коти.</li>
+                <li><strong>Шотландська висловуха</strong> — милі коти із загнутими вперед вушками.</li>
+            </ul>
+        </section>
+        <div class="navigation">
+            <a href="top10.html" class="btn">Перейти до Топ-10 найкрасивіших</a>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Сайт про котів. Усі права захищено.</p>
+    </footer>
+</body>
+</html>
